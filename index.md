@@ -4,9 +4,7 @@ Authors: Authors: [Yen-Tung Yeh](https://arthurddd.github.io/), [Bo-Yu Chen](htt
 
 [Paper]() | [Github](https://github.com/Arthurddd/pjloop-gan) 
 
-<iframe width="800" height="600"
-src="https://www.youtube.com/watch?v=aLihSFbjzoI">
-</iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aLihSFbjzoI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 We used the [work](https://codepen.io/prakhar625/pen/zddKRj?fbclid=IwAR1UadLgl4AN6zvDdK6R3WROVMSeWjlYWNxpJ47nrun-n9g1TkA-tj6XWLI%29) by Prakhar Bhardwaj as our audio visualizer, and thanks to [Amanda Yeh](beauty90212@gmail.com) for editing the video. 
 
