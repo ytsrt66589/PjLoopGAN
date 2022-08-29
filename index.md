@@ -1,8 +1,11 @@
 This is the demo website for the paper.
 
-Authors: Authors: [Yen-Tung Yeh](https://arthurddd.github.io/), [Bo-Yu Chen](https://paulyuchen.com/), [Yi-Hsuan Yang](http://mac.citi.sinica.edu.tw/~yang/)
+Authors: [Yen-Tung Yeh](https://arthurddd.github.io/), [Bo-Yu Chen](https://paulyuchen.com/), [Yi-Hsuan Yang](http://mac.citi.sinica.edu.tw/~yang/)
 
 [Paper]() | [Github](https://github.com/Arthurddd/pjloop-gan) 
+
+### Demo Video
+
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aLihSFbjzoI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
