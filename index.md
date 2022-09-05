@@ -11,6 +11,10 @@ Authors: [Yen-Tung Yeh](https://arthurddd.github.io/), [Bo-Yu Chen](https://paul
 
 We used the [work](https://codepen.io/prakhar625/pen/zddKRj?fbclid=IwAR1UadLgl4AN6zvDdK6R3WROVMSeWjlYWNxpJ47nrun-n9g1TkA-tj6XWLI%29) by Prakhar Bhardwaj as our audio visualizer, and thanks to [Amanda Yeh](beauty90212@gmail.com) for editing the video. 
 
+
+This is the demo video for PjLoopGAN. We generated drum loops and synth loops separately and make music with our generated samples. To be more specific, we generated 6 one-bar drum loops and interpolate between each of them, so-called style-mixing. By doing this way, we can generate a sequence of loops that gradually changed from each other. This is a special characteristic of machine learning. Moreover, we have found some interesting properties. For drum loops, the generated samples by style mixing sounds good. However, synth loops sometimes are not. The quality of generated synth loops by style mixing is not dependant on the endpoint (endpoint means the two loops we tried to interpolate). Even the quality of both endpoint is good, sometimes the generated sample by style-mixing is not good. AI-generated music still need progress.
+
+
 ### Introduction 
 
 <hr>
